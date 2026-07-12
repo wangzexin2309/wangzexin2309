@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/pixel-nightscape.svg" alt="Animated pixel nightscape background" width="96%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=AI+Agent;Robotics+Simulation;Python+%2F+HTML+%2F+CSS" alt="Typing animation" />
 </p>
 
@@ -26,14 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzexin2309&theme=github-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=1F6FEB&point=FFFFFF" alt="Contribution activity graph" width="92%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangzexin2309/wangzexin2309/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangzexin2309/wangzexin2309/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/wangzexin2309/wangzexin2309/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="92%" />
-  </picture>
 </p>
 
 <p align="center">
