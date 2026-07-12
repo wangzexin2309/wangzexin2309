@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://wangzexin2309.github.io">
+    <img src="https://img.shields.io/badge/ENTER_PIXEL_HOMEPAGE-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Enter pixel homepage" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=wangzexin2309&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
